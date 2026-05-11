@@ -1,5 +1,7 @@
 # 📈 Options Volatility Surface Cleaner & Interpolator
 
+![Volatility Surface](volatility_surface_3d.png)
+
 Bu proje, finansal piyasalardaki ham opsiyon verilerini (Option Chains) işleyen, gürültüden arındıran ve türev ürün fiyatlaması için kritik olan **pürüzsüz bir 3D Volatilite Yüzeyi** oluşturan bir Quant aracıdır.
 
 ## 🌟 Showcase (Vitrin) Özelliği
