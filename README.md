@@ -13,7 +13,7 @@ GitHub üzerinde bir projenin etkileyici durması için kodun temizliği kadar, 
 
 ## 🛠️ Nasıl Çalıştırılır?
 Tüm süreci adım adım görmek ve grafikleri incelemek için projenin kalbi olan Notebook dosyasını açın:
-👉 **[Volatility_Surface_Analysis.ipynb](./Options_Surface_Project/Volatility_Surface_Analysis.ipynb)**
+👉 **[Volatility_Surface_Analysis.ipynb](./Volatility_Surface_Analysis.ipynb)**
 
 ## 📊 Çıktı Örneği
 Proje sonunda elde edilen pürüzsüz IV yüzeyi, opsiyon Greklerinin (Delta, Gamma, Vega) doğru hesaplanması için temel teşkil eder.
